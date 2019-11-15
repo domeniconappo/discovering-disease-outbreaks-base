@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.pdf
+*.pkl
+.ipynb_checkpoints
